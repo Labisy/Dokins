@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Dokins</string>
+    <string name="sing_in">Войти</string>
+    <string name="sing_in2">Авторизация</string>
+    <string name="enter">Sing in</string>
+    <string name="register">Регистрация</string>
+    <string name="enter_password">Введите пароль</string>
+    <string name="enter_login">Введите логин</string>
+    <string name="remember_me">Запомнить</string>
+    <string name="splitter_or">или</string>
+    <string name="login_in_facebook">login in facebook</string>
+    <string name="vk_login_in">vk login in</string>
+    <string name="wa_login_in">wa login in</string>
+    <string name="sign_up">Зарегестрироваться</string>
+    <string name="sign_up2">Регистрация</string>
+    <string name="private_policy_text">Политика приватности</string>
+    <string name="mail">Mail</string>
+    <string name="repeat_pass">Повтор пароля</string>
+    <string name="accept">Подтвердить</string>
+    <string name="sing_up">Зарегестрироваться</string>
+    <string name="where_from">Откуда</string>
+    <string name="where">Куда</string>
+    <string name="person_name">Имя</string>
+    <string name="phone">Телефон</string>
+    <string name="don_t_have_an_account">Еще не зарегестрировался?</string>
+    <string name="create_account">Создать аккаунт</string>
+    <string name="already_have_an_account">Аккаунт уже создан?</string>
+    <string name="middle_name">Фамилия</string>
+    <string name="last_name">Отчество</string>
+    <string name="date_of_birth">Дата рождения</string>
+</resources>

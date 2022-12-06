@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <group android:id="@+id/menugroup1" >
+        <item
+            android:id="@+id/sign"
+            android:icon="@mipmap/ic_launcher"
+            android:title="@string/sing_in"/>
+        <item
+            android:id="@+id/menu2"
+            android:title="Popup menu item 2"/>
+        <item
+            android:id="@+id/menu3"
+            android:title="Popup menu item 3">
+            <menu>
+                <item
+                    android:id="@+id/submenu"
+                    android:title="Подменю"/>
+            </menu>
+        </item>
+    </group>
+</menu>
