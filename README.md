@@ -15,8 +15,7 @@ Tasks will be added.
 
 ## Documentation
 
-- Count_words - training of basic text processing algorithms.
-- Kingdom - OOP practice and mvc models.
+--
 
 ## Developers
 
@@ -24,4 +23,4 @@ Tasks will be added.
 
 ## License
 
-Project streamApi is distributed under the Apache License 2.0
+Project dokin is distributed under the Apache License 2.0
