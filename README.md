@@ -10,8 +10,7 @@
 
 ## About
 
-A set of practical tasks to improve the level of proficiency in the java language. It will help novice programmers not to search for tasks on the web, but to focus on programming.
-Tasks will be added.
+The shared travel service will allow users to get to their destination in pleasant company and for less money.
 
 ## Documentation
 
